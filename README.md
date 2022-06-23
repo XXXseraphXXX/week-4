@@ -27,21 +27,21 @@ so in ml we can consider the function type real → int
 This type represents the set of all functions from real to int
 other member of this type would be :
 --pic
-Example of function as type: 
-Example of functions as function arguments:
+- Example of function as type: 
+- Example of functions as function arguments:
 
-Example of functions as function arguments:
+- Example of functions as function arguments:
 
-Why do we use types?
-types help computer languages system to assist the dev write better program 
-type mismatches indicate some sort of programming error.
+- Why do we use types?
+  - types help computer languages system to assist the dev write better program 
+- type mismatches indicate some sort of programming error.
 **Static checking:** type checking done at compile time
 
 **Dynamic checking:** type checking done at run time
 
 ### Type Equivalence 
-**Structural equivalence:** Names are replaced by the type expressions they define. If the resulting type expressions have the same structure, they are equivalent.
-**Name equivalence:** Names are not replaced by the type expressions they define. Two expressions are equivalent if and only if they are structurally equivalent without name substitution.
+- **Structural equivalence:** Names are replaced by the type expressions they define. If the resulting type expressions have the same structure, they are equivalent.
+- **Name equivalence:** Names are not replaced by the type expressions they define. Two expressions are equivalent if and only if they are structurally equivalent without name substitution.
 
 
 

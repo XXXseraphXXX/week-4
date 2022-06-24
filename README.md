@@ -16,7 +16,7 @@ There are different kind of types like primitive type and constructed type
 ### Supertype and Subset
 A **supertype** is a subtype of an elements of a type 
 
-what does that mean so in a language like c++ byte is a subtype of int 
+What does that mean so in a language like c++ byte is a subtype of int 
 we can observe:
   ![subset](subset.JPG)
 - converting a value of a subtype to a values of the super-type is
@@ -76,11 +76,11 @@ struct *cell q,r;
 ## Patterns
 Patterns take on many appearances, such as:
 
-Constants: 150
-Variables: x
-Tuples: (true, _)
-Constructors (which may contain other patterns):
-Lists: x::xs
+- Constants: 150
+- Variables: x
+- Tuples: (true, _)
+- Constructors (which may contain other patterns):
+- Lists: x::xs
 
 val (x,y) = (1,2)
 

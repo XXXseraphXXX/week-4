@@ -1,5 +1,5 @@
-# week-4 Types and Ml tutorial by Jimmy Zhang
-## introduction to types
+# Week-4 Types and Ml Tutorial by Jimmy Zhang
+## Introduction to Types
 A type is a Set of value 
 
 In the variable n we can see that x is a varible of type int and that in-tails that n can take on any value from tne set of all integer values.
@@ -59,8 +59,18 @@ myfun(ceil);
 
 ### Type Equivalence 
 - **Structural equivalence:** Names are replaced by the type expressions they define. If the resulting type expressions have the same structure, they are equivalent.
+typedef link struct *cell;
+
+ ![struct](struct.JPG)
+ 
 - **Name equivalence:** Names are not replaced by the type expressions they define. Two expressions are equivalent if and only if they are structurally equivalent without name substitution.
 
+typedef link struct *cell;
 
+link next, last;
+
+struct *cell p;
+
+struct *cell q,r;
 
 

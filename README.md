@@ -12,7 +12,7 @@ There are different kind of types like primitive type and constructed type
 **Primitive type** is a type of a programmer can use but not define
 
 **Constructed type** is a user defined type n      
-  ![pc](pc.JPG)
+  ![pc](prim.JPG)
 ### Supertype and Subset
 A **supertype** is a subtype of an elements of a type 
 

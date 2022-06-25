@@ -103,8 +103,12 @@ fun length nil  = 0
 
 more information on mergehttps://en.wikipedia.org/wiki/Merge_sort
 
+more practice: https://cs.fit.edu/~ryan/sml/intro.html
+
 # Reference
 - SML, Some Basic Examples, https://cs.fit.edu/~ryan/sml/intro.html. 
 - “Merge Sort.” Wikipedia, Wikimedia Foundation, 4 May 2022, https://en.wikipedia.org/wiki/Merge_sort. 
 - Webber, Adam. Modern Programming Languages: A Practical Introduction. Franklin, Beedle &amp; Associates, 2011.
 - “Type Conversion in Java with Examples.” GeeksforGeeks, 22 Nov. 2021, https://www.geeksforgeeks.org/type-conversion-java-examples/. 
+- https://brightspace.uri.edu/content/enforced/188472-2226_200753_3000_0000_SS3/CSC301_slides/Week%205%20LV1_%20Types.pdf?_&d2lSessionVal=dIGhiPJ4EpidZJxPUL279OQ1K&ou=188472
+- https://brightspace.uri.edu/content/enforced/188472-2226_200753_3000_0000_SS3/CSC301_slides/Week%205%20LV2_%20A%20Second%20Look%20at%20ML.pdf?_&d2lSessionVal=mCaX3ciK9lF9UEkDVdnILjQWZ&ou=188472
